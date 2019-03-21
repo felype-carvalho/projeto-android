@@ -83,7 +83,8 @@
                 android:layout_weight="1"
                 android:background="@color/colorBackgroundButton"
                 android:onClick="closeApp"
-                android:text="@string/sign_out" />
+                android:text="@string/sign_out"
+                />
         </LinearLayout>
 
     </LinearLayout>

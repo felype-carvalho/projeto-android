@@ -2,91 +2,109 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".MenuPrincipalActivity"
-    android:padding="30dp">
 
-    <TextView
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Menu Principal"
-        android:textSize="25dp" />
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="30dp"
+        tools:context=".MenuPrincipalActivity"
+        android:background="@color/colorPrimaryLight">
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Menu Principal"
+            android:textSize="25dp"
+            android:textColor="@color/colorFont"/>
 
-        <Button
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:drawableTop="@drawable/ig"
-            android:text="@string/instagram"
-            android:height="150dp"
-            android:width="150dp"/>
+            android:layout_gravity="center"
+            android:orientation="horizontal">
 
-        <Button
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="150dp"
+                android:height="150dp"
+                android:drawableTop="@drawable/ig"
+                android:text="@string/instagram"
+                android:layout_marginTop="20dp"
+                android:layout_margin="10dp"
+                android:background="@color/colorBackground"
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="150dp"
+                android:height="150dp"
+                android:drawableTop="@drawable/twitter"
+                android:text="@string/twitter"
+                android:layout_margin="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/colorBackground"/>
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:drawableTop="@drawable/twitter"
-            android:text="@string/twitter"
-            android:height="150dp"
-            android:width="150dp"/>
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="150dp"
+                android:height="150dp"
+                android:drawableTop="@drawable/facebook"
+                android:text="@string/facebook"
+                android:layout_margin="10dp"
+                android:background="@color/colorBackground"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="150dp"
+                android:height="150dp"
+                android:drawableTop="@drawable/whatsapp"
+                android:text="@string/whatsapp"
+                android:layout_margin="10dp"
+                android:background="@color/colorBackground"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="150dp"
+                android:height="150dp"
+                android:drawableTop="@drawable/youtube"
+                android:text="@string/youtube"
+                android:layout_margin="10dp"
+                android:background="@color/colorBackground"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="150dp"
+                android:height="150dp"
+                android:drawableTop="@drawable/android"
+                android:text="@string/android"
+                android:layout_margin="10dp"
+                android:background="@color/colorBackground"/>
+        </LinearLayout>
+
+
     </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:drawableTop="@drawable/facebook"
-            android:text="@string/facebook"
-            android:height="150dp"
-            android:width="150dp"/>
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:drawableTop="@drawable/whatsapp"
-            android:text="@string/whatsapp"
-            android:height="150dp"
-            android:width="150dp"/>
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:drawableTop="@drawable/youtube"
-            android:text="@string/youtube"
-            android:height="150dp"
-            android:width="150dp"/>
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:drawableTop="@drawable/android"
-            android:text="@string/android"
-            android:height="150dp"
-            android:width="150dp"/>
-    </LinearLayout>
-
-
-</LinearLayout>
 </ScrollView>
