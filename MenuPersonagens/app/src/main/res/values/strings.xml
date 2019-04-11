@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">MenuPersonagens</string>
-</resources>
+    <string name="desc_arceus"></string>
+    <string name="desc_celebi"></string>
+    <string name="desc_darkrai"></string>
+    <string name="desc_deoxys"></string>
+    <string name="desc_dialga"></string>
+
+    <string name="desc_giratina"></string>
+    <string name="desc_groudon"></string>
+    <string name="desc_jirachi"></string>
+    <string name="desc_kyogre"></string>
+    <string name="desc_latias"></string>
+
+    <string name="desc_latios"></string>
+    <string name="desc_mew"></string>
+    <string name="desc_mewtwo"></string>
+    <string name="desc_palkia"></string>
+    <string name="desc_rayquaza"></string>
+
+    <string name="desc_regice"></string>
+    <string name="desc_regigigas"></string>
+    <string name="desc_regirock"></string>
+    <string name="desc_registeel"></string>
+    <string name="desc_shaymin"></string>
