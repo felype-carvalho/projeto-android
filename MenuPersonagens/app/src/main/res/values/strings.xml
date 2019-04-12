@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MenuPersonagens</string>
+
+    <!-- Descrição dos Pokémons -->
     <string name="desc_arceus"></string>
     <string name="desc_celebi"></string>
     <string name="desc_darkrai"></string>
@@ -23,3 +25,28 @@
     <string name="desc_regirock"></string>
     <string name="desc_registeel"></string>
     <string name="desc_shaymin"></string>
+
+    <!-- Nome dos Pokémons -->
+    <string name="nome_arceus">Arceus</string>
+    <string name="nome_celebi">Celebi</string>
+    <string name="nome_darkrai">Darkrai</string>
+    <string name="nome_deoxys">Deoxys</string>
+    <string name="nome_dialga">Dialga</string>
+
+    <string name="nome_giratina">Giratina</string>
+    <string name="nome_groudon">Groundon</string>
+    <string name="nome_jirachi">Jirachi</string>
+    <string name="nome_kyogre">Kyogre</string>
+    <string name="nome_latias">Latias</string>
+
+    <string name="nome_latios">Latios</string>
+    <string name="nome_mew">Mew</string>
+    <string name="nome_mewtwo">Mewtwo</string>
+    <string name="nome_palkia">Palkia</string>
+    <string name="nome_rayquaza">Rayquaza</string>
+
+    <string name="nome_regice">Regice</string>
+    <string name="nome_regigigas">Regigigas</string>
+    <string name="nome_regirock">regirock</string>
+    <string name="nome_registeel">registeel</string>
+    <string name="nome_shaymin">Shaymin</string>
