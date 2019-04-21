@@ -84,7 +84,7 @@
                     android:background="@drawable/border_edt"
                     android:drawableRight="@drawable/ic_email_white_24dp"
                     android:hint="@string/email"
-                    android:inputType="textPassword"
+                    android:inputType="textEmailAddress"
                     android:padding="11dp"
                     android:textColor="@color/colorFontWhite"
                     android:textColorHint="@color/colorEdt"

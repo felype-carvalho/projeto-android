@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">appOps</string>
+
+    <string name="last_step">Last step</string>
+    <string name="opps_incorrect">Opps, n\ incorrect password...</string>
+    <string name="this_team">This team requires\n you to be invited</string>
+    <string name="lets_connect">Lets connect your data \n through Apple Health Kit</string>
+    <string name="try_again">Try again</string>
+
+    <string name="re_enter">Re-enter email</string>
+    <string name="connect">CONNECT</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="request_invite">REQUEST INVITE</string>
+    <string name="see_supported">SEE SUPPORTED DEVICES</string>
+
+    <string name="create_login">CREATE A NEW LOGIN</string>
+    <string name="create_team">CREATE A TEAM</string>
+
+
+</resources>
