@@ -9,13 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".ResetPasswordActivity"></activity>
-        <activity android:name=".InviteActivity" ></activity>
-        <activity android:name=".ConnectActivit" >
+        <activity android:name=".ResetPasswordActivity">
+
+        </activity>
+        <activity android:name=".InviteActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".ConnectActivit">
+
         </activity>
     </application>
 

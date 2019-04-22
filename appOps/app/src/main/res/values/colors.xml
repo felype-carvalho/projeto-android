@@ -7,4 +7,6 @@
     <color name="fontWhite">#fff</color>
     <color name="btnConnect">#4fe4c3</color>
     <color name="btnCreate">#4891e3</color>
+
+    <color name="btn_empty_border">#fff</color>
 </resources>
