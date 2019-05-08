@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toolbar toolbar=(Toolbar)findViewById(R.id.idToolbar);
+        setSupportActionBar(toolbar);
+
+        getSupportActionBar().setTitle("AAA");
+        getSupportActionBar().setIcon(R.drawable.ic_arrow_back_dp);
     }
 }
