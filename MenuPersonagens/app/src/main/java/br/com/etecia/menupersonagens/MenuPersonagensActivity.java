@@ -100,5 +100,10 @@ public class MenuPersonagensActivity extends AppCompatActivity {
         }
     }
 
+    public void VoltarMenu(){
+        Intent intentMenu = new Intent (this, MenuPersonagensActivity.class);
+        startActivity(intentMenu);
+    }
+
 
 }

@@ -1,7 +1,9 @@
 package br.com.etecia.menupersonagens;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class RegisteelActivity extends AppCompatActivity {
 
@@ -9,5 +11,9 @@ public class RegisteelActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.registeel_layout);
+    }
+    public void abrirMenu(View view){
+        Intent intentMenu = new Intent (this, MenuPersonagensActivity.class);
+        startActivity(intentMenu);
     }
 }
