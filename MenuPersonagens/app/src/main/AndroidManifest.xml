@@ -9,13 +9,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/whitoutBar">
-        <activity android:name=".MenuPersonagens"
+        <activity android:name=".MenuPersonagensActivity"
             android:theme="@style/whitoutBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ArceusActivity"></activity>
+        <activity android:name=".CelebiActivity"></activity>
+        <activity android:name=".DarkraiActivity"></activity>
+        <activity android:name=".DeoxysActivity"></activity>
+        <activity android:name=".DialgaActivity"></activity>
+
+        <activity android:name=".GiratinaActivity"></activity>
+        <activity android:name=".GroudonActivity"></activity>
+        <activity android:name=".JirachiActivity"></activity>
+        <activity android:name=".KyogreActivity"></activity>
+        <activity android:name=".LatiasActivity"></activity>
+
+        <activity android:name=".LatiosActivity"></activity>
+        <activity android:name=".MewActivity"></activity>
+        <activity android:name=".MewtwoActivity"></activity>
+        <activity android:name=".PalkiaActivity"></activity>
+        <activity android:name=".RayquazaActivity"></activity>
+
+        <activity android:name=".RegiceActivity"></activity>
+        <activity android:name=".RegigigasActivity"></activity>
+        <activity android:name=".RegirockActivity"></activity>
+        <activity android:name=".RegisteelActivity"></activity>
+        <activity android:name=".ShayminActivity"></activity>
     </application>
 
 </manifest>

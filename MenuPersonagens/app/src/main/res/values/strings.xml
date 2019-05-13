@@ -2,20 +2,20 @@
     <string name="app_name">MenuPersonagens</string>
 
     <!-- Descrição dos Pokémons -->
-    <string name="desc_arceus">Arceus é um pokemon mitológico, ele é um pokemon que nasceu antes mesmo da criação do universo</string>
-    <string name="desc_celebi">Celebi é o pokemon guardião da floresta que viaja pelo tempo</string>
+    <string name="desc_arceus">Arceus é um pokemon mitológico, ele é um pokemon que nasceu antes mesmo da criação do universo.</string>
+    <string name="desc_celebi">Celebi é o pokemon guardião da floresta que viaja pelo tempo.</string>
     <string name="desc_darkrai">Darkrai é o pokemon pesadelo, ele faz com que as pessoas adormeçam e tenham pesadelos.</string>
     <string name="desc_deoxys">Deoxys é o pokemon alienígena, deoxys veio do espaço e seu formato de DNA faz com que ele mude suas formas.</string>
     <string name="desc_dialga">Dialga é o pokemon do tempo, dialga é um dragão antigo que consegue controlar o tempo.</string>
 
     <string name="desc_giratina">Giratina é o pokemon fantasma, ele vive no mundo contrário ao nosso, Giratina pode ser encontrado no cemitério antigo.</string>
-    <string name="desc_groudon">Groudon é o pokemon mitológico, acredita-se que Groudon foi o pokemon criador dos continentes e quando ele é acordado existe a possibilidade de grandes erupções</string>
-    <string name="desc_jirachi">Jirachi é o pokemon dos desejos, acredita-se que exista uma música que se for cantada para o jirachi, os seus desejos se tornam realidade</string>
+    <string name="desc_groudon">Groudon é o pokemon mitológico, acredita-se que Groudon foi o pokemon criador dos continentes e quando ele é acordado existe a possibilidade de grandes erupções.</string>
+    <string name="desc_jirachi">Jirachi é o pokemon dos desejos, acredita-se que exista uma música que se for cantada para o jirachi, os seus desejos se tornam realidade.</string>
     <string name="desc_kyogre">Kyogre é o pokemon mitológico, acredita-se que kyogre foi o criador dos mares e travou diversas batalhas cataclismicas com Groudon. </string>
     <string name="desc_latias">Latias é um pokemon psíquico, ela é capaz de ter poderes telepáticos e entender as emoções humanas</string>
 
-    <string name="desc_latios">Latios é o pokemon psíquico, ele é capaz de compreender a fala dos seres humanos</string>
-    <string name="desc_mew">Mew é o pokemon DNA, Mew é um raro pokemon que contém em seu materia genético todos os genes de todos os outros pokemons</string>
+    <string name="desc_latios">Latios é o pokemon psíquico, ele é capaz de compreender a fala dos seres humanos.</string>
+    <string name="desc_mew">Mew é o pokemon DNA, Mew é um raro pokemon que contém em seu materia genético todos os genes de todos os outros pokemons.</string>
     <string name="desc_mewtwo">Mewtwo é um pokemon criado por cientistas em uma tentativa falha na recriação do Mew.</string>
     <string name="desc_palkia">Palkia é o pokemon do espaço-tempo, Palkia é capaz de distorcer o espaço tempo.</string>
     <string name="desc_rayquaza">Rayquaza é o pokemon dos céus, ele vive na camada de ozônio, muito acima das nuvens e é impossível de ser visto do chão.</string>

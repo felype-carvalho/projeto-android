@@ -7,4 +7,5 @@
     <color name="backgroundWhite">#fff</color>
     <color name="backgroundLightBlue">#00FFFF</color>
     <color name="fontColor">#000</color>
+    <color name="colorBtn">#000</color>
 </resources>
